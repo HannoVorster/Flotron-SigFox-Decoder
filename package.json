@@ -1,0 +1,22 @@
+{
+  "name": "flotron-sigfox-decoder",
+  "version": "1.0.0",
+  "description": "Payload decoder for Flotron loggers sending data via SigFox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannoVorster/Flotron-SigFox-Decoder.git"
+  },
+  "keywords": [
+    "IOT"
+  ],
+  "author": "Hanno Vorster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HannoVorster/Flotron-SigFox-Decoder/issues"
+  },
+  "homepage": "https://github.com/HannoVorster/Flotron-SigFox-Decoder#readme"
+}
